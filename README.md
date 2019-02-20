@@ -10,5 +10,4 @@
 
 ### it diables SELinux
 
-
 ## To run the script: bash packages.sh
